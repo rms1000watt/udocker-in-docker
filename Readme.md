@@ -27,6 +27,6 @@ You may hit a bug that needs to be fixed (most likely on my end). Open a PR if y
 
 ## TODO
 
-- [ ] Debug ()
+- [ ] Debug [proot operation not permitted error](https://github.com/indigo-dc/udocker/issues/144)
 
 
